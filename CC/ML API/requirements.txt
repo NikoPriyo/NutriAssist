@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-cloud-firestore
+tensorflow
+numpy
+joblib
+scikit-learn
